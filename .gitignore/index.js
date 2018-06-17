@@ -7,7 +7,7 @@ bot.on('message', function (message){
 	if(message.content ==='!ibahna'){
 		message.reply('Ouiiiiiiii ?');
 	} 
-	if(message.content ==='!help'){
+	if(message.content ==='!404'){
 		message.reply('Tu veux pas apprendre à te débrouiller ?');
 	} 
 });
