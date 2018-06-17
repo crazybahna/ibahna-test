@@ -7,6 +7,9 @@ bot.on('message', function (message){
 	if(message.content ==='!ibahna'){
 		message.reply('Ouiiiiiiii ?');
 	} 
+	if(message.content ==='!help'){
+		message.reply('Tu veux pas apprendre à te débrouiller ?');
+	} 
 });
 
 
